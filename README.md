@@ -1,8 +1,7 @@
 # SUBGRUPO-7-TRABAJO COLABORATIVO-3-Conceptos-fundamentales-de-programacion
 Integrantes: KELLY JOHANA SAENZ BALLESTEROS, DANIEL STEVEN ACOSTA MARULANDA, ANDRES PULIDO TOQUICA, JAVIER DAVID BLANCOS ARCOS, NIREY PAOLA BARRAS ANILLO
 
-Generador de datos de ventas
-Generación de Archivos de Prueba en Java
+
 Este repositorio contiene un programa Java diseñado para generar archivos de prueba que contienen información sobre vendedores, productos y ventas. El propósito es crear archivos de texto que simulen datos para propósitos de prueba o demostración.
 
 Estructura del proyecto
