@@ -1,5 +1,5 @@
 # SUBGRUPO-7-TRABAJO COLABORATIVO-Conceptos-fundamentales-de-programacion
-Integrantes: KELLY JOHANA SAENZ BALLESTEROS, DANIEL STEVEN ACOSTA MARULANDA, ANDRES PULIDO TOQUICA, JAVIER DAVID BLANCOS ARCOS, NIREY PAOLA BARRAS ANILLO
+Integrantes: KELLY JOHANA SAENZ BALLESTEROS, DANIEL STEVEN ACOSTA MARULANDA, JAVIER DAVID BLANCOS ARCOS.
 
 
 Este repositorio contiene un programa Java diseñado para generar archivos de prueba que contienen información sobre vendedores, productos y ventas. El propósito es crear archivos de texto que simulen datos para propósitos de prueba o demostración.
